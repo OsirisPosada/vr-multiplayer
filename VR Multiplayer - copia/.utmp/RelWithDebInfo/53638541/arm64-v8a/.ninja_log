@@ -1,0 +1,10 @@
+# ninja log v5
+115	3241	8141610118028589	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fdb8b36d22ca5199
+59	3257	8141610118214270	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7c08789aafcf1705
+1	3307	8141610118694066	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7db67b10bf86d3d4
+135	3311	8141610118748817	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7a99e4b8e62ef106
+34	3364	8141610119318749	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a7ac6fe5e9665340
+160	3461	8141610120295940	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	dbbba811ed5d6ed9
+88	3571	8141610121430835	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	964310bb4a334439
+16	3685	8141610122490032	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	28854003d9c556a6
+3686	3822	8141610123897815	C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/VR Multiplayer - copia/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/53638541/obj/arm64-v8a/libgame.so	779bba161a70f0c0

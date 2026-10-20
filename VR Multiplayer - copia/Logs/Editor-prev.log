@@ -1,0 +1,732 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.8f1 (5cb7df797b7d) revision 6076383'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LABORATORIO" at "2026-10-19T23:41:23.2684601Z"
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'es' Physical Memory: 15993 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-10-19T23:41:23Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Unity.exe
+-projectpath
+C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-LABORATORIO
+-hubSessionId
+45ed4421-b2d4-4be5-8648-73976f536723
+-accessToken
+9PYK0NmTGWeNLXGBTDZRyy0dzaIc7ML3PtpBUXBsAfk004f
+Successfully changed project path to: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer
+C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/VR Multiplayer
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [21816]  Target information:
+
+Player connection [21816]  * "[IP] 172.16.10.101 [Port] 55504 [Flags] 2 [Guid] 674434703 [EditorId] 674434703 [Version] 1048832 [Id] WindowsEditor(7,S3-LDIM-PC09) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21816] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [21816] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-8960" after 0.3 seconds.
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-LABORATORIO"
+[Licensing::IpcConnector] LicenseClient-LABORATORIO channel disconnected successfully.
+[Licensing::IpcConnector] Channel LicenseClient-LABORATORIO-6000.5.8 doesn't exist
+[Licensing::Module] Successfully launched the LicensingClient (PId: 27556)
+Starting IPC server.
+Waiting for clients to connect on \\.\pipe\Unity-LicenseClient-LABORATORIO-6000.5.8, press Ctrl-C to exit.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LABORATORIO-6000.5.8" at "2026-10-19T23:41:25.0863727Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 27556, path: "C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              37ff98cd908344d1978ec7318b07e8d2
+  Correlation Id:          6623bf5afda9a7a0089493b00f904949
+  External correlation Id: 5176309608853155851
+  Machine Id:              UcZ7RCAKPSsWTklzB5NEknOmBLo=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-LABORATORIO-6000.5.8" (connect: 0.57s, validation: 0.09s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-LABORATORIO-6000.5.8-notifications" at "2026-10-19T23:41:25.1839307Z"
+[Licensing::Module] Connected to LicensingClient (PId: 27556, launch time: 0.01, total connection time: 0.66s)
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token 9PYK0NmTGW...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4673861781209-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.01
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 1.98s
+[Licensing::Module] Licensing is initialized (took 1.50s).
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Artifact Garbage Collection - Removed 1158 unused hashed content files
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 3.99 ms, found 0 plugins.
+Initialize engine version: 6000.5.8f1 (5cb7df797b7d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/VR Multiplayer/Assets
+[D3D12 Device Filter] Vendor Name: NVIDIA
+[D3D12 Device Filter] Device Name: NVIDIA GeForce RTX 3060
+[D3D12 Device Filter] Driver Version: 32.0.16.1060
+[D3D12 Device Filter] Feature Level: 12.2
+[D3D12 Device Filter] Graphics Memory: 12115 MB
+[D3D12 Device Filter] Processor Count: 16
+[D3D12 Device Filter] Device Type: Discrete
+GfxDevice: creating device client; kGfxThreadingModeSplitJobs
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:          NVIDIA
+    VRAM:            12115 MB
+    App VRAM Budget: 11347 MB
+    Driver:          32.0.16.1060
+d3d12: ERROR D3D12PipelineLibrary must be recreated due to invalid disk cache
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.005971 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.914 seconds
+Domain Reload Profiling: 1544ms
+	BeginReloadAssembly (175ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (7ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (88ms)
+	LoadAllAssembliesAndSetupDomain (339ms)
+		LoadAssemblies (156ms)
+		AnalyzeDomain (250ms)
+			TypeCache.Refresh (248ms)
+				TypeCache.ScanAssembly (229ms)
+	FinalizeReload (916ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (89ms)
+			BeforeProcessingInitializeOnLoad (91ms)
+			ProcessInitializeOnLoadAttributes (107ms)
+			ProcessInitializeOnLoadMethodAttributes (559ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 83 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.burst@1.8.30 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.burst@2f3d916873ea)
+    com.unity.ide.rider@3.0.40 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.ide.rider@e4950c6d131b)
+    com.unity.inputsystem@1.20.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194)
+    com.unity.learn.iet-framework@5.0.4 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.learn.iet-framework@b6db3036d2a7)
+    com.unity.mobile.android-logcat@1.4.7 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.mobile.android-logcat@a8a404f035b3)
+    com.unity.multiplayer.playmode@2.0.2 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.multiplayer.playmode@d8888f6ed6aa)
+    com.unity.multiplayer.tools@2.2.10 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.multiplayer.tools@6a01704219ea)
+    com.unity.netcode.gameobjects@2.13.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.netcode.gameobjects@d43d28498f17)
+    com.unity.services.authentication@3.7.3 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.authentication@4e591ebe4d6b)
+    com.unity.services.multiplayer@2.3.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.multiplayer@17f5d8518517)
+    com.unity.services.vivox@16.11.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.vivox@50a15770bdad)
+    com.unity.xr.androidxr-openxr@1.3.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.androidxr-openxr@85a4ea3b26b6)
+    com.unity.xr.arfoundation@6.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.arfoundation@13d2457b468b)
+    com.unity.xr.core-utils@2.6.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.hands@1.8.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.hands@0908de89928b)
+    com.unity.xr.interaction.toolkit@3.5.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.interaction.toolkit@63ca3b7ce776)
+    com.unity.xr.management@4.5.4 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.management@e3a3882b360a)
+    com.unity.xr.openxr@1.17.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.openxr@58837b2992e0)
+    com.unity.xr.legacyinputhelpers@3.0.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b)
+    com.unity.editorcoroutines@1.1.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.editorcoroutines@87a15ed012c2)
+    com.unity.xr.compositionlayers@2.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.compositionlayers@2843cb312e13)
+    com.unity.searcher@4.9.5 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.searcher@a463122f2c00)
+    com.unity.services.core@1.18.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.core@3464cb68d709)
+    com.unity.settings-manager@2.1.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86)
+    com.unity.nuget.newtonsoft-json@3.2.2 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64)
+    com.unity.services.qos@1.4.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.qos@03d4b52d4980)
+    com.unity.services.wire@1.4.4 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.wire@aba8a6fb1fe2)
+    com.unity.services.deployment@1.7.2 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.deployment@c07c64f9804b)
+    com.unity.nuget.mono-cecil@1.11.6 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.profiling.core@1.0.3 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.profiling.core@8a49f7027d06)
+    com.unity.ide.visualstudio@2.0.26 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.performance.profile-analyzer@1.4.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.performance.profile-analyzer@2bb26871883c)
+    com.unity.testtools.codecoverage@1.3.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.testtools.codecoverage@19a841221620)
+    com.unity.services.deployment.api@1.1.3 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.services.deployment.api@9becf6da0f1a)
+    com.unity.test-framework.performance@3.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.test-framework.performance@8b56083ec0f0)
+  Built-in packages:
+    com.unity.feature.development@1.0.2 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.feature.development@767aadbc6eb7)
+    com.unity.multiplayer.center@1.0.1 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.multiplayer.center@b860850997d0)
+    com.unity.render-pipelines.universal@17.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.render-pipelines.universal@73b4c4ff130e)
+    com.unity.shadergraph@17.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.shadergraph@8d7376ec43ee)
+    com.unity.modules.accessibility@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.modules.hierarchycore)
+    com.unity.ugui@2.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.ugui@1c4864518158)
+    com.unity.mathematics@1.4.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.mathematics@981956d94fb6)
+    com.unity.render-pipelines.core@17.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.render-pipelines.core@a4c9a9793789)
+    com.unity.transport@6.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.transport@0c07c94c2861)
+    com.unity.collections@6.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.collections@ec2c217e4cb2)
+    com.unity.render-pipelines.universal-config@17.5.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.render-pipelines.universal-config@fdda01c80fe3)
+    com.unity.ext.nunit@2.1.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.ext.nunit@44f7d31723bd)
+    com.unity.test-framework@1.7.0 (location: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.test-framework@1405238725ab)
+[Subsystems] Looking for new subsystems at path C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.arfoundation@13d2457b468b
+[Subsystems] Novel subsystem found at Library/PackageCache/com.unity.xr.arfoundation@13d2457b468b/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/VR Multiplayer/Assets
+[Subsystems] Discovering subsystems at path C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.arfoundation@13d2457b468b
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@13d2457b468b/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@13d2457b468b/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@13d2457b468b/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@13d2457b468b/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\Library\PackageCache\com.unity.xr.openxr@58837b2992e0
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@58837b2992e0/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.05 seconds
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:80
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping - application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping - 200 - application/grpc 30.5701ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/VR Multiplayer
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors - application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.ComponentModel.Composition.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.5.8f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll"
+info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Unity.Burst.Cecil, Version=0.11.6.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library\PackageCache\com.unity.burst@2f3d916873ea\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll
+info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Resolved Mono.Cecil, Version=0.11.5.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e with Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff\Mono.Cecil.dll
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors - 200 - application/grpc 128.2794ms
+ExitCode: 0 Duration: 0s692ms
+[ 449/2195  0s] WriteResponseFile Library/Bee/artifacts/rsp/4747638433968585886.rsp
+[1654/2195  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.65 seconds), 2 items updated, 2195 evaluated
+AssetDatabase: script compilation time: 1.262816s
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Refreshing native plugins compatible for Editor in 58.21 ms, found 11 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 11.82 ms, found 11 plugins.
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.459 seconds
+Domain Reload Profiling: 6818ms
+	BeginReloadAssembly (394ms)
+		DisableScriptedObjects (70ms)
+		CreateAndSetChildDomain (159ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (84ms)
+	LoadAllAssembliesAndSetupDomain (857ms)
+		LoadAssemblies (456ms)
+		AnalyzeDomain (361ms)
+			TypeCache.Refresh (219ms)
+				TypeCache.ScanAssembly (197ms)
+			BuildScriptInfoCaches (131ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (5460ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			BeforeProcessingInitializeOnLoad (86ms)
+			ProcessInitializeOnLoadAttributes (3989ms)
+			ProcessInitializeOnLoadMethodAttributes (889ms)
+			AfterProcessingInitializeOnLoad (6ms)
+		AwakeInstancesAfterBackupRestoration (37ms)
+Starting new worker id: 0 with log in C:/Users/MULTIMEDIA/Documents/00 ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/VR Multiplayer/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=4d215df67c36da247b87124c87e64a37): Total: 9.903 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=6755 ms
+		Asset DB Callback time: managed=273 ms, native=61 ms
+		Scripting: domain reloads=1, domain reload time=1436 ms, compile time=1264 ms, other=110 ms
+		Project Asset Count: scripts=2536, non-scripts=3231
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 63.540ms
+	ApplyChangesToAssetFolders: 1.010ms
+	Scan: 207.134ms
+	Collect global state as custom dependencies: 23.656ms
+	CategorizeScriptCompilationAssets: 112.692ms
+	ProcessAssetsWithTransientArtifactChanges: 117.300ms
+	CategorizeAssets: 101.194ms
+	CompileScripts: 1264.361ms
+	ImportOutOfDateAssets: 5674.832ms (5577.191ms without children)
+		UnloadImportedAssets: 2.396ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.296ms
+		ImportSchedulerStart: 93.900ms
+	PostProcessAllAssets: 273.902ms
+		MonoPostProcessAllAssets: 273.773ms
+			AssetPostprocessorProxy.OnPostprocessAllAssets 57.972ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 15.030ms
+			SyncVS.PostprocessSyncProject 4.378ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 2.113ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.956ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.900ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 1.370ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.971ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.695ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.397ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.279ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.191ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.160ms
+	UnloadStreamsBegin: 3.057ms
+	PersistCurrentRevisions: 0.207ms
+	GenerateScriptTypeHashes: 11.615ms
+	GenerateScriptTypeSerializationHashes: 18.060ms
+	Untracked: 2051.734ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Scanning for USB devices : 5.988ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-VR Multiplayer
+Worker ready: AssetImportWorkerHW0 0
+Unloading 31 Unused Serialized files (Serialized files now loaded: 0)
+Refreshing native plugins compatible for Editor in 12.27 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 2.38 ms.
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            38.044 ms
+	Integration:            2816.975 ms
+	Integration of assets:  3.986 ms
+	Thread Wait Time:       1.303 ms
+	Total Operation Time:   2860.308 ms
+Unloading 9666 unused Assets / (10.5 MB). Loaded Objects now: 37155.
+Memory consumption went from 0.72 GB to 0.71 GB.
+Total: 56.605200 ms (FindLiveObjects: 6.012400 ms CreateObjectMapping: 12.890800 ms MarkObjects: 29.691700 ms  DeleteObjects: 8.005800 ms)
+
+[LAYOUT] About to load UserSettings\Layouts\default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/MULTIMEDIA/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+<RI> Initializing input.
+Using Windows.Gaming.Input
+[Project] Loading completed in 23.535 seconds
+	Project init time: 				16.242 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		1.783 seconds
+		Asset Database init time: 		0.594 seconds
+		Global illumination init time: 	0.011 seconds
+		Assemblies load time: 			1.650 seconds
+		Unity extensions init time: 	0.036 seconds
+		Asset Database refresh time: 	9.904 seconds
+	Scene opening time: 			7.122 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1792453306790,"processId":8960,"projectLoad":23.5348869,"projectInit":16.2417818,"templateInit":0.0,"packageManagerInit":1.7826462,"assetDatabaseInit":0.5939267,"globalIlluminationInit":0.0105244,"assembliesLoad":1.650499,"unityExtensionsInit":0.0364889,"assetDatabaseRefresh":9.9044042,"sceneOpening":7.1216716}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1792453306791,"processId":8960,"editorVersion":"6000.5.8f1 (5cb7df797b7d)","branch":"6000.5/staging","buildType":"Release","platform":"Windows"}
+Importing 'GUID: 87b413c5a910b15498a98200731b1754 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 87b413c5a910b15498a98200731b1754' -> (Import Result ID: 'f52ffa1ff44dd27aea44f839eea25d9e') in 0.024 seconds [static dependencies only]. Details - ImportResultOutputID=e0f31807f8c55c97cab53aa9a933eacd DependenciesID=05b251b3de059c36d9fb4efacd86df42 StaticDependenciesID=50c943f011c30f1529e67aa65ca30c52 
+Refreshing native plugins compatible for Editor in 8.99 ms, found 11 plugins.
+
+Asset Pipeline Refresh (id=93c0d3b7795d14a4ca9a9e08ab04c82e): Total: 0.466 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=1 ms, native=197 ms
+		Asset DB Callback time: managed=235 ms, native=31 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=2536, non-scripts=3231
+		Asset File Changes: new=0, changed=1, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 1.406ms
+	ApplyChangesToAssetFolders: 0.365ms
+	Scan: 15.087ms
+	Collect global state as custom dependencies: 0.659ms
+	OnSourceAssetsModified: 1.253ms
+	ProcessAssetsWithTransientArtifactChanges: 0.309ms
+	CategorizeAssets: 57.031ms
+	CompileScripts: 0.107ms
+	ImportOutOfDateAssets: 87.021ms (14.897ms without children)
+		ImportManagerImport: 27.126ms (2.343ms without children)
+			UpdateCategorizedAssets: 0.050ms
+		ReloadNativeAssets: 0.175ms
+		UnloadImportedAssets: 0.093ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.896ms
+		ImportSchedulerStart: 43.812ms
+	PostProcessAllAssets: 251.467ms
+		XRBuildSystem.XRAssetImported 14.779ms
+		WindowTitlePostprocess 0.143ms
+		MonoPostProcessAllAssets: 234.732ms
+			AssetPostprocessor.OnPostprocessAllAssets 182.335ms
+			AssetCallbacks.OnPostprocessAllAssets 24.215ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 6.617ms
+			AssetChangedListener.OnPostprocessAllAssets 5.457ms
+			NetworkPrefabProcessor.OnPostprocessAllAssets 3.276ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 2.378ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.196ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.630ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.607ms
+			EnvironmentAssetPostprocessor.OnPostprocessAllAssets 0.440ms
+			SyncVS.PostprocessSyncProject 0.436ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.413ms
+			SampleDependencyImporterPostProcessor.OnPostprocessAllAssets 0.379ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.363ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.355ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.348ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.308ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.306ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.291ms
+			AssetEvents.OnPostprocessAllAssets 0.278ms
+			AssetPostprocessorProxy.OnPostprocessAllAssets 0.277ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.251ms
+			PostProcessor.OnPostprocessAllAssets 0.248ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.201ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.095ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.091ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.086ms
+	PostAssetChangesProfiler: 13.684ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.969ms
+	UnloadStreamsBegin: 8.955ms
+	PersistCurrentRevisions: 0.305ms
+	Untracked: 21.085ms
+
+Importing 'GUID: 87b413c5a910b15498a98200731b1754 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 87b413c5a910b15498a98200731b1754' -> (Import Result ID: 'f52ffa1ff44dd27aea44f839eea25d9e') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=e0f31807f8c55c97cab53aa9a933eacd DependenciesID=05b251b3de059c36d9fb4efacd86df42 StaticDependenciesID=50c943f011c30f1529e67aa65ca30c52 
+Refreshing native plugins compatible for Editor in 9.81 ms, found 11 plugins.
+Asset Pipeline Refresh (id=7dc1a26787e806944959dc54047f38a6): Total: 0.093 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 87b413c5a910b15498a98200731b1754 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 87b413c5a910b15498a98200731b1754' -> (Import Result ID: '19737e036e66bddef0293800343c0778') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=b75d5f0c2b4ce3868423f9557b160b88 DependenciesID=5085bd1d22d9a23195867bfced2d0722 StaticDependenciesID=0bc42b1a2fca4c4005fc851eff28c0a0 
+Refreshing native plugins compatible for Editor in 9.58 ms, found 11 plugins.
+Asset Pipeline Refresh (id=a63d373b20f81ec4f8ddf2cbaf6d094b): Total: 0.108 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 87b413c5a910b15498a98200731b1754 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 87b413c5a910b15498a98200731b1754' -> (Import Result ID: '19737e036e66bddef0293800343c0778') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=b75d5f0c2b4ce3868423f9557b160b88 DependenciesID=5085bd1d22d9a23195867bfced2d0722 StaticDependenciesID=0bc42b1a2fca4c4005fc851eff28c0a0 
+Refreshing native plugins compatible for Editor in 9.41 ms, found 11 plugins.
+Asset Pipeline Refresh (id=27eb84bb3b57d6e43a314f6fb601a073): Total: 0.085 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Licensing::Client] Successfully resolved entitlement details
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+Font Asset [LiberationSans SDF - Fallback] Units Per EM set to 2048. Please commit the newly serialized value.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+TMPro.TMP_FontAsset:ReadFontAssetDefinition () (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_FontAsset.cs:821)
+TMPro.TMP_FontAsset:get_characterLookupTable () (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_FontAsset.cs:194)
+TMPro.TMP_FontAssetUtilities:GetCharacterFromFontAsset_Internal (uint,TMPro.TMP_FontAsset,bool,TMPro.FontStyles,TMPro.FontWeight,bool&) (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_FontAssetUtilities.cs:79)
+TMPro.TMP_FontAssetUtilities:SearchFallbacksForCharacter (uint,TMPro.TMP_FontAsset,TMPro.FontStyles,TMPro.FontWeight,bool&) (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_FontAssetUtilities.cs:208)
+TMPro.TMP_FontAssetUtilities:GetCharacterFromFontAsset_Internal (uint,TMPro.TMP_FontAsset,bool,TMPro.FontStyles,TMPro.FontWeight,bool&) (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_FontAssetUtilities.cs:155)
+TMPro.TMP_FontAssetUtilities:GetCharacterFromFontAsset (uint,TMPro.TMP_FontAsset,bool,TMPro.FontStyles,TMPro.FontWeight,bool&) (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_FontAssetUtilities.cs:58)
+TMPro.TMP_Text:GetTextElement (uint,TMPro.TMP_FontAsset,TMPro.FontStyles,TMPro.FontWeight,bool&) (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_Text.cs:6173)
+TMPro.TextMeshProUGUI:SetArraySizes (TMPro.TMP_Text/TextProcessingElement[]) (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TextMeshProUGUI.cs:1945)
+TMPro.TMP_Text:ParseInputText () (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_Text.cs:2063)
+TMPro.TextMeshProUGUI:OnPreRenderCanvas () (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TextMeshProUGUI.cs:2496)
+TMPro.TextMeshProUGUI:Rebuild (UnityEngine.UI.CanvasUpdate) (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TextMeshProUGUI.cs:229)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate () (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/UGUI/UI/Core/CanvasUpdateRegistry.cs:215)
+UnityEngine.Canvas:SendWillRenderCanvases ()
+UnityEngine.Canvas:ForceUpdateCanvases ()
+UnityEngine.UI.ScrollRect:EnsureLayoutHasRebuilt () (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/UGUI/UI/Core/ScrollRect.cs:637)
+UnityEngine.UI.ScrollRect:LateUpdate () (at ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/UGUI/UI/Core/ScrollRect.cs:835)
+
+(Filename: ./Library/PackageCache/com.unity.ugui@1c4864518158/Runtime/TMP/TMP_FontAsset.cs Line: 821)
+
+Android Extension - Scanning For ADB Devices 2260 ms
+Reloading assemblies due to reload request.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Refreshing native plugins compatible for Editor in 12.42 ms, found 11 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.010 seconds
+Domain Reload Profiling: 4315ms
+	BeginReloadAssembly (964ms)
+		ExecutionOrderSort (3ms)
+		DisableScriptedObjects (137ms)
+		CreateAndSetChildDomain (554ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (90ms)
+	LoadAllAssembliesAndSetupDomain (225ms)
+		LoadAssemblies (148ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (9ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (3011ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			BeforeProcessingInitializeOnLoad (209ms)
+			ProcessInitializeOnLoadAttributes (943ms)
+			ProcessInitializeOnLoadMethodAttributes (288ms)
+			AfterProcessingInitializeOnLoad (6ms)
+		ExecutionOrderSort2 (5ms)
+		AwakeInstancesAfterBackupRestoration (824ms)
+No restricted APIs configured; Validation skipped.
+Checking 15 assemblies for restricted APIs found 0 usage(s) in 3 ms
+Refreshing native plugins compatible for Editor in 9.47 ms, found 11 plugins.
+
+Asset Pipeline Refresh (id=ee8f6606357acd149aa31aff89511226): Total: 6.446 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3484 ms
+		Asset DB Callback time: managed=1114 ms, native=482 ms
+		Scripting: domain reloads=1, domain reload time=1363 ms, compile time=2 ms, other=0 ms
+		Project Asset Count: scripts=2536, non-scripts=3231
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 2.246ms
+	ApplyChangesToAssetFolders: 0.517ms
+	Collect global state as custom dependencies: 3.193ms
+	ProcessAssetsWithTransientArtifactChanges: 241.691ms
+	CategorizeAssets: 79.338ms
+	CompileScripts: 1.659ms
+	ImportOutOfDateAssets: 3095.400ms (3045.566ms without children)
+		CollectScriptTypesHashes: 3.016ms
+		ReloadNativeAssets: 2.740ms
+		UnloadImportedAssets: 1.894ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.510ms
+		ImportSchedulerStart: 43.634ms
+	PostProcessAllAssets: 1563.808ms
+		AssemblyValidation.PostprocessAllAssets 29.366ms
+		PostProcessCallbackCreateDeferredMaterials 24.679ms
+		PostprocessAssetsUpdateCachedIcon 20.372ms
+		ComputeShaderImportPostprocess 13.034ms
+		ShaderAssetModifiedCallback 12.767ms
+		RaytracingShaderImportPostprocess 10.348ms
+		SpeedTreeImporter.PostprocessAllAssets 7.564ms
+		LocalizationDatabase.AssetDatabasePostprocessCallback 5.043ms
+		BlockShaderImporter.PostprocessAllAssets 4.641ms
+		XRBuildSystem.XRAssetImported 3.228ms
+		MonoPostProcessAllAssets: 1102.035ms
+			SyncVS.PostprocessSyncProject 339.670ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 213.833ms
+			AssetChangedListener.OnPostprocessAllAssets 42.700ms
+			PostProcessor.OnPostprocessAllAssets 42.621ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 39.221ms
+			AssetPostprocessor.OnPostprocessAllAssets 38.997ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 38.816ms
+			MaterialPostprocessor.OnPostprocessAllAssets 38.187ms
+			AssetPostprocessorProxy.OnPostprocessAllAssets 32.846ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 24.091ms
+			AssetCallbacks.OnPostprocessAllAssets 17.938ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 12.519ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 6.459ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 5.510ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 5.416ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 2.207ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 1.631ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.507ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 1.298ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.933ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.695ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.479ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.403ms
+			NetworkPrefabProcessor.OnPostprocessAllAssets 0.393ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.346ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.316ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.291ms
+			SampleDependencyImporterPostProcessor.OnPostprocessAllAssets 0.244ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.237ms
+			EnvironmentAssetPostprocessor.OnPostprocessAllAssets 0.219ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.198ms
+			AssetEvents.OnPostprocessAllAssets 0.189ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.133ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.126ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.069ms
+	PostAssetChangesProfiler: 32.458ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.272ms
+	UnloadStreamsBegin: 2.798ms
+	PersistCurrentRevisions: 0.211ms
+	GenerateScriptTypeHashes: 11.133ms
+	GenerateScriptTypeSerializationHashes: 19.600ms
+	Untracked: 1415.143ms
+
+Created GICache directory at C:/Users/MULTIMEDIA/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.033s, timestamps: [24.021 - 24.054]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 87b413c5a910b15498a98200731b1754 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 87b413c5a910b15498a98200731b1754' -> (Import Result ID: '19737e036e66bddef0293800343c0778') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=b75d5f0c2b4ce3868423f9557b160b88 DependenciesID=5085bd1d22d9a23195867bfced2d0722 StaticDependenciesID=0bc42b1a2fca4c4005fc851eff28c0a0 
+Refreshing native plugins compatible for Editor in 9.55 ms, found 11 plugins.
+Asset Pipeline Refresh (id=6904f149470751e409612baa2f0a01fc): Total: 0.097 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 87b413c5a910b15498a98200731b1754 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 87b413c5a910b15498a98200731b1754' -> (Import Result ID: '19737e036e66bddef0293800343c0778') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=b75d5f0c2b4ce3868423f9557b160b88 DependenciesID=5085bd1d22d9a23195867bfced2d0722 StaticDependenciesID=0bc42b1a2fca4c4005fc851eff28c0a0 
+Refreshing native plugins compatible for Editor in 9.12 ms, found 11 plugins.
+Asset Pipeline Refresh (id=701618a40536904449f75490620aac53): Total: 0.104 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 87b413c5a910b15498a98200731b1754 - Path: Assets/XR/Settings/OpenXR Package Settings.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 87b413c5a910b15498a98200731b1754' -> (Import Result ID: '19737e036e66bddef0293800343c0778') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=b75d5f0c2b4ce3868423f9557b160b88 DependenciesID=5085bd1d22d9a23195867bfced2d0722 StaticDependenciesID=0bc42b1a2fca4c4005fc851eff28c0a0 
+Refreshing native plugins compatible for Editor in 9.11 ms, found 11 plugins.
+Asset Pipeline Refresh (id=68f1f213beb87584c8603a67b46caba6): Total: 0.089 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Request Asset Garbage Collect because used heap size increased from 0.71 GB to 1.64 GB, exceeding the threshold of 256.0 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "9PYK0NmT"... (expires: 2026-10-20T01:40:00Z)
+Android Extension - Scanning For ADB Devices 247 ms
+Unloading 8207 unused Assets / (5.2 MB). Loaded Objects now: 40457.
+Memory consumption went from 1.64 GB to 1.63 GB.
+Total: 57.107100 ms (FindLiveObjects: 4.085700 ms CreateObjectMapping: 11.657000 ms MarkObjects: 35.304800 ms  DeleteObjects: 6.058100 ms)
+
+Android Extension - Scanning For ADB Devices 202 ms
+UPID Received '4ff45c09-bdb1-49a1-a579-fce90799a3cb'.
+[Licensing::Client] Successfully resolved entitlement details
+Attempted to call .Dispose on an already disposed CancellationTokenSource
+Android Extension - Scanning For ADB Devices 187 ms
+[Licensing::Client] Successfully resolved entitlement details
+TrimDiskCacheJob: Current cache size 31mb
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Importing 'GUID: 454d10befdd099c4e996635608f2d67f - Path: Assets/VRMPAssets/Textures/RenderTextures/MirrorRenderTexture.renderTexture' with importer (NativeFormatImporter)
+Imported 'GUID: 454d10befdd099c4e996635608f2d67f' -> (Import Result ID: '34cd250b91bcffc9003a8e3b82bafe93') in 0.003 seconds [static dependencies only]. Details - ImportResultOutputID=617e42bcb3233ac43005439c27d90c9b DependenciesID=e15357c181eb87894487951bd4c0c67d StaticDependenciesID=7a4c3b1677d4674766045c615d8f2f72 
+Refreshing native plugins compatible for Editor in 10.26 ms, found 11 plugins.
+Asset Pipeline Refresh (id=4d1aa8965f47db44899febec689448b7): Total: 0.107 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 13f6f87036926f94ab0417ca1b31725c - Path: Assets/Scenes/SampleScene.unity' with importer (DefaultImporter)
+Imported 'GUID: 13f6f87036926f94ab0417ca1b31725c' -> (Import Result ID: '02f42c27baac9cf83ddd621b546889b3') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=9e0d1e418a73e9fb4bc8c847abdbcc52 DependenciesID=b4453f84ad1ebcbcc1b417e94e380d0c StaticDependenciesID=bb4de4c664b69d8ded994d837d538ec1 
+Refreshing native plugins compatible for Editor in 9.67 ms, found 11 plugins.
+Asset Pipeline Refresh (id=5e3d709fc228b384f9895beb8b3124c1): Total: 0.095 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+MonoPathRemapper: Attempts to remap: 92526; Successful remaps: 35518
+Serialized file version minimum: 22, current 23
+[LAYOUT] About to save layout C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO OSIRIS DANIELA\VR Multiplayer\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/MULTIMEDIA/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+Killing ADB server in 0,0417811 seconds.
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-LABORATORIO-6000.5.8-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-LABORATORIO-6000.5.8 channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+Shut down.
+abort_threads: Failed aborting id: 000000000000333C, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000001950, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 000000000000333C, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000001950, mono_thread_manage will ignore it
+
+debugger-agent: Unable to listen on 5088
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1792453414382,"processId":8960,"allocatedMemory":57545906,"memoryLabels":[{"Default":280116},{"Permanent":15516},{"NewDelete":65165},{"Thread":4207480},{"Manager":821640},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":864370},{"Material":24},{"GfxDevice":135320},{"GfxThread":6912},{"Animation":78776},{"FreeType":8},{"FontEngine":736},{"Physics":2146},{"Physics2D":16},{"Serialization":283592},{"Input":45280},{"JobScheduler":256},{"TextLib":26392},{"Mono":310},{"MonoCode":128},{"ScriptingNativeRuntime":2603396},{"BaseObject":1768136},{"Resource":1208},{"Renderer":3080},{"Transform":4685},{"File":18862},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":10792},{"StaticString":3808},{"Utility":2673994},{"Curl":48},{"PoolAlloc":2456},{"AI":80},{"TypeTree":18701},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"CloudService":8072},{"WebRequest":17222},{"VR":47402},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":33057072},{"Camera":17},{"Secure":265},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":48},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":552},{"Hierarchy":1176},{"UIElements":1005504},{"CoreStats":13688},{"Identifiers":6768},{"Gui":207},{"EditorUtility":236790},{"VersionControl":8},{"Undo":931},{"AssetDatabase":8997757},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":35345},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":64},{"DrivenProperties":72},{"ChannelService":384},{"LocalIPC":217},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3486},{"Windowing":456},{"Licensing":664},{"AssetReference":32},{"IPCStream":32}]}
