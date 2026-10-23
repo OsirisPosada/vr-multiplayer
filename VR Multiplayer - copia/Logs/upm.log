@@ -1,71 +1,116 @@
-[2026-10-20T00:26:42.171Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.8f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 18124 --ipc-path Unity-Upm-18124 -l 2 --log-file 'C:\\Users\\MULTIMEDIA\\Documents\\00 ESTUDIANTES\\POSADA MONTERO OSIRIS DANIELA\\VR Multiplayer - copia/Logs/upm.log'
-[2026-10-20T00:26:42.223Z][INFO] IPC server started (IPC path=Unity-Upm-18124).
-[2026-10-20T00:26:42.223Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-18124.
-[2026-10-20T00:26:45.960Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:38:30.174Z][INFO] Command-line: 'D:\\Unity Hub\\6000.5.8f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 26904 --ipc-path Unity-Upm-26904 -l 2 --log-file 'D:\\GitHub\\vr-multiplayer\\VR Multiplayer - copia/Logs/upm.log'
+[2026-10-23T20:38:30.241Z][INFO] IPC server started (IPC path=Unity-Upm-26904).
+[2026-10-23T20:38:30.242Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-26904.
+[2026-10-23T20:38:56.839Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:26:46.093Z][INFO] config:project:get-registries <-- Request received
+[2026-10-23T20:38:57.023Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-10-20T00:26:46.115Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:38:57.036Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:26:46.140Z][INFO] config:project:get-registries --> 200 (47 ms)
-[2026-10-20T00:26:46.619Z][INFO] project:resolve-packages <-- Request received
+[2026-10-23T20:38:57.131Z][INFO] config:project:get-registries --> 200 (108 ms)
+[2026-10-23T20:38:58.065Z][INFO] project:list-packages --> 200 (1227 ms)
+[2026-10-23T20:38:58.100Z][INFO] project:list-packages --> 200 (1064 ms)
+[2026-10-23T20:38:59.937Z][INFO] project:resolve-packages <-- Request received
 params: {}
-[2026-10-20T00:26:46.824Z][INFO] project:list-packages --> 200 (864 ms)
-[2026-10-20T00:26:46.826Z][INFO] project:list-packages --> 200 (711 ms)
-[2026-10-20T00:26:51.191Z][WARN] Requested version [2.1.2] for package [com.unity.xr.legacyinputhelpers] overridden by minimum version [3.0.1].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [1.0.0] for package [com.unity.editorcoroutines] overridden by minimum version [1.1.0].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [2.3.0] for package [com.unity.xr.compositionlayers] overridden by minimum version [2.5.0].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [1.15.1] for package [com.unity.services.core] overridden by minimum version [1.18.0].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [1.0.3] for package [com.unity.settings-manager] overridden by minimum version [2.1.1].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [3.0.2] for package [com.unity.nuget.newtonsoft-json] overridden by minimum version [3.2.2].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [1.11.4] for package [com.unity.nuget.mono-cecil] overridden by minimum version [1.11.6].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [1.0.2] for package [com.unity.profiling.core] overridden by minimum version [1.0.3].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [1.1.2] for package [com.unity.services.deployment.api] overridden by minimum version [1.1.3].
-[2026-10-20T00:26:51.191Z][WARN] Requested version [3.2.0] for package [com.unity.test-framework.performance] overridden by minimum version [3.5.0].
-[2026-10-20T00:26:51.193Z][INFO] project:resolve-packages --> 200 (4574 ms)
-[2026-10-20T00:27:06.953Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:39:00.300Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.5@0.0.103] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:00.802Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.5@0.0.103] from registry 'https://packages.unity.com' (size: 11.5 kB, time: 502ms)
+[2026-10-23T20:39:05.634Z][INFO] Downloading package [com.unity.ide.rider@3.0.40] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.636Z][INFO] Downloading package [com.unity.multiplayer.playmode@2.0.2] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.638Z][INFO] Downloading package [com.unity.services.authentication@3.7.3] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.639Z][INFO] Downloading package [com.unity.multiplayer.tools@2.2.10] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.641Z][INFO] Downloading package [com.unity.services.vivox@16.11.0] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.642Z][INFO] Downloading package [com.unity.services.multiplayer@2.3.0] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.644Z][INFO] Downloading package [com.unity.services.core@1.18.0] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.645Z][INFO] Downloading package [com.unity.services.qos@1.4.1] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.647Z][INFO] Downloading package [com.unity.services.wire@1.4.4] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.648Z][INFO] Downloading package [com.unity.services.deployment@1.7.2] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:05.650Z][INFO] Downloading package [com.unity.services.deployment.api@1.1.3] from registry 'https://packages.unity.com'
+[2026-10-23T20:39:06.208Z][INFO] Finished downloading package [com.unity.services.qos@1.4.1] from registry 'https://packages.unity.com' (size: 78.8 kB, time: 562ms)
+[2026-10-23T20:39:06.214Z][INFO] Finished downloading package [com.unity.services.core@1.18.0] from registry 'https://packages.unity.com' (size: 267 kB, time: 568ms)
+[2026-10-23T20:39:06.229Z][INFO] Finished downloading package [com.unity.ide.rider@3.0.40] from registry 'https://packages.unity.com' (size: 165 kB, time: 595ms)
+[2026-10-23T20:39:06.236Z][INFO] Finished downloading package [com.unity.services.authentication@3.7.3] from registry 'https://packages.unity.com' (size: 218 kB, time: 598ms)
+[2026-10-23T20:39:06.301Z][INFO] Finished downloading package [com.unity.services.deployment@1.7.2] from registry 'https://packages.unity.com' (size: 215 kB, time: 653ms)
+[2026-10-23T20:39:06.315Z][INFO] Finished downloading package [com.unity.services.wire@1.4.4] from registry 'https://packages.unity.com' (size: 321 kB, time: 668ms)
+[2026-10-23T20:39:06.398Z][INFO] Finished downloading package [com.unity.services.multiplayer@2.3.0] from registry 'https://packages.unity.com' (size: 501 kB, time: 756ms)
+[2026-10-23T20:39:06.427Z][INFO] Finished downloading package [com.unity.services.deployment.api@1.1.3] from registry 'https://packages.unity.com' (size: 27.1 kB, time: 777ms)
+[2026-10-23T20:39:06.724Z][INFO] Finished downloading package [com.unity.multiplayer.playmode@2.0.2] from registry 'https://packages.unity.com' (size: 642 kB, time: 1s)
+[2026-10-23T20:39:06.989Z][INFO] Finished downloading package [com.unity.multiplayer.tools@2.2.10] from registry 'https://packages.unity.com' (size: 2.09 MB, time: 1.3s)
+[2026-10-23T20:39:44.649Z][INFO] Finished downloading package [com.unity.services.vivox@16.11.0] from registry 'https://packages.unity.com' (size: 346 MB, time: 39s)
+[2026-10-23T20:40:10.930Z][WARN] Requested version [2.1.2] for package [com.unity.xr.legacyinputhelpers] overridden by minimum version [3.0.1].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [1.0.0] for package [com.unity.editorcoroutines] overridden by minimum version [1.1.0].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [2.3.0] for package [com.unity.xr.compositionlayers] overridden by minimum version [2.5.0].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [1.15.1] for package [com.unity.services.core] overridden by minimum version [1.18.0].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [1.0.3] for package [com.unity.settings-manager] overridden by minimum version [2.1.1].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [3.0.2] for package [com.unity.nuget.newtonsoft-json] overridden by minimum version [3.2.2].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [1.11.4] for package [com.unity.nuget.mono-cecil] overridden by minimum version [1.11.6].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [1.0.2] for package [com.unity.profiling.core] overridden by minimum version [1.0.3].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [1.1.2] for package [com.unity.services.deployment.api] overridden by minimum version [1.1.3].
+[2026-10-23T20:40:10.930Z][WARN] Requested version [3.2.0] for package [com.unity.test-framework.performance] overridden by minimum version [3.5.0].
+[2026-10-23T20:40:10.932Z][INFO] project:resolve-packages --> 200 (70995 ms)
+[2026-10-23T20:42:15.812Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:07.173Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:42:16.206Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:07.515Z][INFO] project:list-packages --> 200 (563 ms)
-[2026-10-20T00:27:07.727Z][INFO] project:list-packages --> 200 (553 ms)
-[2026-10-20T00:27:11.410Z][INFO] config:project:get-registries <-- Request received
+[2026-10-23T20:42:16.396Z][INFO] project:list-packages --> 200 (585 ms)
+[2026-10-23T20:42:16.772Z][INFO] project:list-packages --> 200 (565 ms)
+[2026-10-23T20:42:22.722Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-10-20T00:27:11.415Z][INFO] config:project:get-registries --> 200 (5 ms)
-[2026-10-20T00:27:11.738Z][INFO] packages:get-all-packageinfo <-- Request received
+[2026-10-23T20:42:22.728Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-10-23T20:42:22.847Z][INFO] packages:get-all-packageinfo <-- Request received
 params: {}
-[2026-10-20T00:27:11.752Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:42:22.861Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:12.637Z][INFO] packages:get-all-packageinfo --> 200 (898 ms)
-[2026-10-20T00:27:13.021Z][INFO] project:list-packages --> 200 (1269 ms)
-[2026-10-20T00:27:19.412Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:42:23.926Z][INFO] packages:get-all-packageinfo --> 200 (1079 ms)
+[2026-10-23T20:42:24.517Z][INFO] project:list-packages --> 200 (1656 ms)
+[2026-10-23T20:43:39.191Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:19.918Z][INFO] project:list-packages --> 200 (506 ms)
-[2026-10-20T00:27:21.599Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:43:39.723Z][INFO] project:list-packages --> 200 (533 ms)
+[2026-10-23T20:43:41.545Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:22.342Z][INFO] project:list-packages --> 200 (743 ms)
-[2026-10-20T00:27:23.276Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:43:42.116Z][INFO] project:list-packages --> 200 (571 ms)
+[2026-10-23T20:43:46.736Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:23.633Z][INFO] project:list-packages --> 200 (357 ms)
-[2026-10-20T00:27:29.345Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:43:46.932Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:29.513Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:43:47.381Z][INFO] project:list-packages --> 200 (645 ms)
+[2026-10-23T20:43:47.615Z][INFO] project:list-packages --> 200 (684 ms)
+[2026-10-23T20:43:48.165Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-10-20T00:27:29.864Z][INFO] project:list-packages --> 200 (519 ms)
-[2026-10-20T00:27:30.038Z][INFO] project:list-packages --> 200 (525 ms)
-[2026-10-20T00:27:30.540Z][INFO] config:project:get-registries <-- Request received
+[2026-10-23T20:43:48.170Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-10-23T20:43:49.459Z][INFO] packages:get-all-packageinfo <-- Request received
 params: {}
-[2026-10-20T00:27:30.544Z][INFO] config:project:get-registries --> 200 (4 ms)
-[2026-10-20T00:27:31.471Z][INFO] packages:get-all-packageinfo <-- Request received
+[2026-10-23T20:43:50.203Z][INFO] packages:get-all-packageinfo --> 200 (744 ms)
+[2026-10-23T20:43:55.129Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:32.034Z][INFO] packages:get-all-packageinfo --> 200 (563 ms)
-[2026-10-20T00:27:35.043Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:43:55.143Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:35.381Z][INFO] project:list-packages --> 200 (338 ms)
-[2026-10-20T00:27:37.404Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:43:55.581Z][INFO] project:list-packages --> 200 (438 ms)
+[2026-10-23T20:43:59.575Z][INFO] project:list-packages --> 200 (4446 ms)
+[2026-10-23T20:44:32.881Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:37.418Z][INFO] project:list-packages <-- Request received
+[2026-10-23T20:44:33.484Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-10-20T00:27:37.791Z][INFO] project:list-packages --> 200 (373 ms)
-[2026-10-20T00:27:41.788Z][INFO] project:list-packages --> 200 (4384 ms)
+[2026-10-23T20:44:36.269Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-23T20:44:37.068Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-23T20:44:37.646Z][INFO] project:list-packages --> 200 (4766 ms)
+[2026-10-23T20:44:37.649Z][INFO] project:list-packages --> 200 (4165 ms)
+[2026-10-23T20:44:37.650Z][INFO] project:list-packages --> 200 (1381 ms)
+[2026-10-23T20:44:37.872Z][INFO] project:list-packages --> 200 (804 ms)
+[2026-10-23T20:46:38.469Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-23T20:46:38.938Z][INFO] project:list-packages --> 200 (469 ms)
+[2026-10-23T22:44:19.279Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-23T22:44:19.873Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-23T22:44:22.068Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-23T22:44:22.768Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-23T22:44:24.508Z][INFO] project:list-packages --> 200 (4635 ms)
+[2026-10-23T22:44:24.510Z][INFO] project:list-packages --> 200 (5234 ms)
+[2026-10-23T22:44:24.512Z][INFO] project:list-packages --> 200 (1744 ms)
+[2026-10-23T22:44:24.514Z][INFO] project:list-packages --> 200 (2446 ms)

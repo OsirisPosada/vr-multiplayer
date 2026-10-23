@@ -263,7 +263,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -272,14 +272,14 @@ MonoBehaviour:
     y: 670
     width: 1238
     height: 263
-  m_MinSize: {x: 101, y: 126}
-  m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 14}
+  m_MinSize: {x: 231, y: 276}
+  m_MaxSize: {x: 10001, y: 10026}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
   - {fileID: 14}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,8 +299,8 @@ MonoBehaviour:
     y: 0
     width: 505
     height: 933
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 76}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -566,6 +566,20 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 1
       containerId: overlay-toolbar__top
+      displayed: 1
+      id: Editor Controls/Selection History
+      index: 8
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      floating: 0
+      collapsed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverridden: 0
+    - dockPosition: 1
+      containerId: overlay-toolbar__top
       displayed: 0
       id: Services/Environment
       index: 8
@@ -818,60 +832,20 @@ MonoBehaviour:
     m_DynamicPanelBehaviorModified: 0
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 1}
       m_SelectedIDs:
-      - m_rawData: 568105584919060586
+      - m_rawData: 568105589213668758
       m_LastClickedID:
-        m_rawData: 568105584919060586
+        m_rawData: 568105589213668758
       m_ExpandedIDs:
-      - m_rawData: 568105589213502726
-      - m_rawData: 568105589213515318
-      - m_rawData: 568105589213523996
-      - m_rawData: 568105589213536588
-      - m_rawData: 568105589213545268
-      - m_rawData: 568105589213557860
-      - m_rawData: 568105589213566490
-      - m_rawData: 568105589213579082
-      - m_rawData: 568105589213581754
-      - m_rawData: 568105589213582268
-      - m_rawData: 568105589213589108
-      - m_rawData: 568105589213601998
-      - m_rawData: 568105589213613042
-      - m_rawData: 568105589213625652
-      - m_rawData: 568105589213634558
-      - m_rawData: 568105589213647150
-      - m_rawData: 568105589213655778
-      - m_rawData: 568105589213668370
-      - m_rawData: 568105589213671042
-      - m_rawData: 568105589213671552
-      - m_rawData: 568105589213678404
-      - m_rawData: 568105589213691312
-      - m_rawData: 568105589213700144
-      - m_rawData: 568105589213700654
-      - m_rawData: 568105589213707506
-      - m_rawData: 568105589213720416
-      - m_rawData: 568105589213733520
-      - m_rawData: 568105589213733526
-      - m_rawData: 568105589213741160
-      - m_rawData: 568105589213742848
-      - m_rawData: 568105589213743042
-      - m_rawData: 568105589213743128
-      - m_rawData: 568105589213754964
-      - m_rawData: 568105589213755436
-      - m_rawData: 568105589213755472
-      - m_rawData: 568105589213755506
-      - m_rawData: 568105589213755644
-      - m_rawData: 568105589213755824
-      - m_rawData: 568105589213755876
-      - m_rawData: 568105589213755880
-      - m_rawData: 568105589213755948
-      - m_rawData: 568105589213755978
-      - m_rawData: 568105584918853354
-      - m_rawData: 568105584918853444
-      - m_rawData: 568105584918853502
-      - m_rawData: 568105584918948026
-      - m_rawData: 568105584918948902
-      - m_rawData: 568105584918973210
+      - m_rawData: 568105589213661770
+      - m_rawData: 568105589213664670
+      - m_rawData: 568105589213666788
+      - m_rawData: 568105589213668478
+      - m_rawData: 568105589213668672
+      - m_rawData: 568105589213668758
+      - m_rawData: 568105589213678658
+      - m_rawData: 568105584918937532
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1482,9 +1456,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -2.5907185, y: 1.9126825, z: 8.975895}
+    m_Target: {x: 0.30831414, y: 3.733049, z: -8.714564}
     speed: 2
-    m_Value: {x: -2.5907185, y: 1.9126825, z: 8.975895}
+    m_Value: {x: 0.30831414, y: 3.733049, z: -8.714564}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1531,13 +1505,13 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: -0.04180149, y: -0.6565843, z: 0.036468636, w: -0.7522583}
+    m_Target: {x: -0.020998565, y: -0.011090124, z: 0.0002250013, w: -0.99976194}
     speed: 2
-    m_Value: {x: -0.041854624, y: -0.65543133, z: 0.036404572, w: -0.75321496}
+    m_Value: {x: -0.020997282, y: -0.012589202, z: 0.00025648763, w: -0.9997003}
   m_Size:
-    m_Target: 0.5203796
+    m_Target: 1.9999493
     speed: 2
-    m_Value: 0.4979709
+    m_Value: 1.9999493
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1625,7 +1599,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Modelos
+    - Assets/Modelos/Texturas
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1635,22 +1609,23 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Modelos
+  - Assets/Modelos/Texturas
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\MULTIMEDIA\Documents\00 ESTUDIANTES\POSADA MONTERO
-    OSIRIS DANIELA\VR Multiplayer - copia
+  m_LastProjectPath: D:\GitHub\vr-multiplayer\VR Multiplayer - copia
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 7}
     m_SelectedIDs:
-    - m_rawData: 568105584918905872
+    - m_rawData: 568105584918951060
     m_LastClickedID:
-      m_rawData: 568105584918905872
+      m_rawData: 568105584918951060
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 568105584918902132
+    - m_rawData: 568105584918950482
+    - m_rawData: 568105584918950896
+    - m_rawData: 568105587066273791
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1684,7 +1659,7 @@ MonoBehaviour:
       m_rawData: 0
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 568105584918902132
+    - m_rawData: 568105584918950482
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1712,15 +1687,17 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
+    m_SelectedInstanceIDs:
+    - m_rawData: 568105589213668758
     m_LastClickedEntityId:
-      m_rawData: 0
+      m_rawData: 568105589213668758
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: []
+    m_ExpandedInstanceIDs:
+    - m_rawData: 568105584918951010
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Modelos
-      m_OriginalName: Modelos
+      m_Name: Texturas
+      m_OriginalName: Texturas
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -1728,7 +1705,7 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_rawData: 568105584918905872
+        m_rawData: 568105584918951060
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
