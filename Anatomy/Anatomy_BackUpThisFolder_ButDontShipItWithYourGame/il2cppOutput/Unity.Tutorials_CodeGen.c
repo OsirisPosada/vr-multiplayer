@@ -1,0 +1,58 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void SceneObjectGuid_get_Id_mC708AE9354968DC9C3613A8E5A36B5E29FEBA559 (void);
+extern void SceneObjectGuid_Awake_m6F06FEB12B6132C0B789E9C3641B58440DAB6FC7 (void);
+extern void SceneObjectGuid_Register_mE773070DF552384453C17FAC254BC86126783C33 (void);
+extern void SceneObjectGuid_OnValidate_m5CFC48F7C75B6F4ACEC6DB108C6A8E45CB05323D (void);
+extern void SceneObjectGuid_OnDestroy_m83925D82EEE3A970D593E149492F5A4AF2E75915 (void);
+extern void SceneObjectGuid__ctor_mEB8E91974B24889B3A5B742B0F60CBBFF5CA6B52 (void);
+extern void SceneObjectGuid_U3CAwakeU3Eb__4_0_mF5384741D3C785F21C49FEC2DCC8812FBCA91E59 (void);
+extern void SceneObjectGuidManager_get_Instance_mDD8F6200EE0FB7EA89286B0E99E1AE9F0F08EB83 (void);
+extern void SceneObjectGuidManager_set_Instance_m7837DAC0D0AA278F187444D3949B995FA5ADD8D3 (void);
+extern void SceneObjectGuidManager_ResetStaticsOnLoad_m5F49227A426EB602381BD720F8B5E8FD922CB179 (void);
+extern void SceneObjectGuidManager_Register_m0F73A6D55045E9D6AEF97D337032141286221649 (void);
+extern void SceneObjectGuidManager_Contains_m69595B6B3B650CF17789E76FAEC09FEBB1BAD1B2 (void);
+extern void SceneObjectGuidManager_Unregister_m150D05E508A4AFFB6F45E77CBE81B9C8462ACEB3 (void);
+extern void SceneObjectGuidManager_GetComponent_m414A403DEF1F7CAF24376441A369A6E5A00DF5AF (void);
+extern void SceneObjectGuidManager__ctor_mA7F6A00A72F913943983923D1184417E66EB9C70 (void);
+static Il2CppMethodPointer s_methodPointers[16] = 
+{
+	NULL,
+	SceneObjectGuid_get_Id_mC708AE9354968DC9C3613A8E5A36B5E29FEBA559,
+	SceneObjectGuid_Awake_m6F06FEB12B6132C0B789E9C3641B58440DAB6FC7,
+	SceneObjectGuid_Register_mE773070DF552384453C17FAC254BC86126783C33,
+	SceneObjectGuid_OnValidate_m5CFC48F7C75B6F4ACEC6DB108C6A8E45CB05323D,
+	SceneObjectGuid_OnDestroy_m83925D82EEE3A970D593E149492F5A4AF2E75915,
+	SceneObjectGuid__ctor_mEB8E91974B24889B3A5B742B0F60CBBFF5CA6B52,
+	SceneObjectGuid_U3CAwakeU3Eb__4_0_mF5384741D3C785F21C49FEC2DCC8812FBCA91E59,
+	SceneObjectGuidManager_get_Instance_mDD8F6200EE0FB7EA89286B0E99E1AE9F0F08EB83,
+	SceneObjectGuidManager_set_Instance_m7837DAC0D0AA278F187444D3949B995FA5ADD8D3,
+	SceneObjectGuidManager_ResetStaticsOnLoad_m5F49227A426EB602381BD720F8B5E8FD922CB179,
+	SceneObjectGuidManager_Register_m0F73A6D55045E9D6AEF97D337032141286221649,
+	SceneObjectGuidManager_Contains_m69595B6B3B650CF17789E76FAEC09FEBB1BAD1B2,
+	SceneObjectGuidManager_Unregister_m150D05E508A4AFFB6F45E77CBE81B9C8462ACEB3,
+	SceneObjectGuidManager_GetComponent_m414A403DEF1F7CAF24376441A369A6E5A00DF5AF,
+	SceneObjectGuidManager__ctor_mA7F6A00A72F913943983923D1184417E66EB9C70,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_Tutorials_CodeGenModule;
+const Il2CppCodeGenModule g_Unity_Tutorials_CodeGenModule = 
+{
+	"Unity.Tutorials.dll",
+	16,
+	s_methodPointers,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

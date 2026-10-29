@@ -1,0 +1,35 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "Anatomy",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "AutoRunPlayer",
+        "CompressWithLz4",
+        "StrictMode"
+    ],
+    "BuildProfilePath": "",
+    "BuildResult": 1,
+    "BuildResultName": "Succeeded",
+    "BuildSessionGUID": "261e883b22d13464d8bc4c7ab75cccb2",
+    "BuildStartedAt": "2026-10-29T21:44:00.7831262Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "f8a019572cb35c841a0c8342539b9310",
+    "OutputPath": "C:/Users/MULTIMEDIA/Desktop/Anatomy/Anatomy.apk",
+    "Platform": 13,
+    "PlatformName": "Android",
+    "Subtarget": 0,
+    "SubtargetName": "0",
+    "TotalErrors": 0,
+    "TotalSizeBytes": 1259335436,
+    "TotalTimeMs": 21526,
+    "TotalWarnings": 1
+}

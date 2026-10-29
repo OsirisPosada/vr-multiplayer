@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-e8/vTY1VRNcsZQMHJLf26lf0wdu8ekE67FKAfNtAXfc=","packageName":"com.unity.services.wire","packageVersion":"1.5.0","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

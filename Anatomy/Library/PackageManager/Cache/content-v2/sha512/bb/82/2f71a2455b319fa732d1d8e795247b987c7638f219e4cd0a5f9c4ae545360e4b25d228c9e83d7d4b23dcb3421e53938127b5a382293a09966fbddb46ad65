@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-p6qdUODlWADlQJnUJe6N42YFDatMUVWblUSac7Mt8PE=","packageName":"com.unity.services.multiplayer","packageVersion":"2.3.1","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}
