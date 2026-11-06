@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Tutorials.Editor::Unity.Tutorials.Editor.WindowCache
   CurrentView: TableOfContent
   PreviousView: Tutorial
-  DomainReloadOccured: 1
-  IsOpen: 1
+  DomainReloadOccured: 0
+  IsOpen: 0
   AreTestsRunning: 0
   CurrentTutorial: {fileID: 0}
   PlayModeChanging: 0

@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/MULTIMEDIA/Desktop/Anatomy/Packages/manifest.json
+    m_FilePath: D:/GitHub/vr-multiplayer/Anatomy/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639289047899107243
-    m_Hash: 2367260870
+      ticks: 639295984956419714
+    m_Hash: 2448612488
   m_LockFileStatus:
-    m_FilePath: C:/Users/MULTIMEDIA/Desktop/Anatomy/Packages/packages-lock.json
+    m_FilePath: D:/GitHub/vr-multiplayer/Anatomy/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639289048411277362
-    m_Hash: 3893795651
+      ticks: 639295984956426252
+    m_Hash: 501074868
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/MULTIMEDIA/Desktop/Anatomy/Packages
+m_ProjectPath: D:/GitHub/vr-multiplayer/Anatomy/Packages
 m_EditorVersion: 6000.6.2f1 (770e33f6875c)
 m_ResolvedPackages:
 - packageId: com.unity.burst@2.0.0
@@ -28,7 +28,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.burst@626e66ab421b
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.burst@626e66ab421b
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -118,7 +118,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.2
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -240,7 +240,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.0.40
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.ide.rider@e4950c6d131b
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.ide.rider@e4950c6d131b
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -388,7 +388,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.0.26
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -520,7 +520,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.20.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.inputsystem@7a4e1a2a8194
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -698,7 +698,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.0.7
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.learn.iet-framework@96330db47073
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.learn.iet-framework@96330db47073
   assetPath: Packages/com.unity.learn.iet-framework
   name: com.unity.learn.iet-framework
   displayName: Tutorial Framework
@@ -879,7 +879,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.4.7
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.mobile.android-logcat@a8a404f035b3
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.mobile.android-logcat@a8a404f035b3
   assetPath: Packages/com.unity.mobile.android-logcat
   name: com.unity.mobile.android-logcat
   displayName: Android Logcat
@@ -992,7 +992,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.multiplayer.playmode@29d317c343be
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.multiplayer.playmode@29d317c343be
   assetPath: Packages/com.unity.multiplayer.playmode
   name: com.unity.multiplayer.playmode
   displayName: Multiplayer Play Mode
@@ -1082,7 +1082,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.2.11
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.multiplayer.tools@8da038ed3f29
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.multiplayer.tools@8da038ed3f29
   assetPath: Packages/com.unity.multiplayer.tools
   name: com.unity.multiplayer.tools
   displayName: Multiplayer Tools
@@ -1246,7 +1246,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.13.2
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.netcode.gameobjects@cfd429cc91ec
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.netcode.gameobjects@cfd429cc91ec
   assetPath: Packages/com.unity.netcode.gameobjects
   name: com.unity.netcode.gameobjects
   displayName: Netcode for GameObjects
@@ -1334,6 +1334,8 @@ m_ResolvedPackages:
     - 2.13.3
     - 3.0.0
     - 3.1.0
+    - 3.2.0
+    - 3.2.1
     compatible:
     - 2.13.2
     - 2.13.3
@@ -1393,7 +1395,7 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.13.2
     nextVersion: 
-    recommendedVersion: 3.1.0
+    recommendedVersion: 3.2.0
     isDeprecated: 0
     deprecationMessage: 
     isDiscoverable: 1
@@ -1434,7 +1436,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.render-pipelines.universal@1e1cf3dcbd40
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.render-pipelines.universal@1e1cf3dcbd40
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1564,7 +1566,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.7.4
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.authentication@39eab783227c
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.authentication@39eab783227c
   assetPath: Packages/com.unity.services.authentication
   name: com.unity.services.authentication
   displayName: Authentication
@@ -1726,7 +1728,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.18.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.core@3464cb68d709
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.core@3464cb68d709
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -1867,7 +1869,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.3.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.multiplayer@0a90950aff70
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.multiplayer@0a90950aff70
   assetPath: Packages/com.unity.services.multiplayer
   name: com.unity.services.multiplayer
   displayName: Multiplayer Services
@@ -2075,7 +2077,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 16.11.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.vivox@50a15770bdad
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.vivox@50a15770bdad
   assetPath: Packages/com.unity.services.vivox
   name: com.unity.services.vivox
   displayName: Vivox
@@ -2246,7 +2248,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.shadergraph@96a7923f6bed
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.shadergraph@96a7923f6bed
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -2366,7 +2368,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.9.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.splines@e6e1d5900acc
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.splines@e6e1d5900acc
   assetPath: Packages/com.unity.splines
   name: com.unity.splines
   displayName: Splines
@@ -2501,7 +2503,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.8.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.test-framework@7a3849e09bd0
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.test-framework@7a3849e09bd0
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -2605,7 +2607,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.timeline@c56d56b0070b
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.timeline@c56d56b0070b
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -2716,7 +2718,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.ugui@0f30cee369f3
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.ugui@0f30cee369f3
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: uGUI
@@ -2837,7 +2839,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.4.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.androidxr-openxr@793ce1cdf6ce
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.androidxr-openxr@793ce1cdf6ce
   assetPath: Packages/com.unity.xr.androidxr-openxr
   name: com.unity.xr.androidxr-openxr
   displayName: Unity OpenXR Android XR
@@ -3043,7 +3045,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.2
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.arfoundation@d57b0b4d336a
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.arfoundation@d57b0b4d336a
   assetPath: Packages/com.unity.xr.arfoundation
   name: com.unity.xr.arfoundation
   displayName: AR Foundation
@@ -3381,7 +3383,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.5.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.compositionlayers@2843cb312e13
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.compositionlayers@2843cb312e13
   assetPath: Packages/com.unity.xr.compositionlayers
   name: com.unity.xr.compositionlayers
   displayName: XR Composition Layers
@@ -3519,7 +3521,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.6.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.core-utils@a8b900321199
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.core-utils@a8b900321199
   assetPath: Packages/com.unity.xr.core-utils
   name: com.unity.xr.core-utils
   displayName: XR Core Utilities
@@ -3654,7 +3656,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.9.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.hands@aec06f9cdb0b
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.hands@aec06f9cdb0b
   assetPath: Packages/com.unity.xr.hands
   name: com.unity.xr.hands
   displayName: XR Hands
@@ -3843,7 +3845,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.6.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.interaction.toolkit@c7557c6c9ee4
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.interaction.toolkit@c7557c6c9ee4
   assetPath: Packages/com.unity.xr.interaction.toolkit
   name: com.unity.xr.interaction.toolkit
   displayName: XR Interaction Toolkit
@@ -4068,7 +4070,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 4.7.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.management@2ad85c7dd480
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.management@2ad85c7dd480
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -4245,7 +4247,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.6.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.meta-openxr@20c9b19f5e28
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.meta-openxr@20c9b19f5e28
   assetPath: Packages/com.unity.xr.meta-openxr
   name: com.unity.xr.meta-openxr
   displayName: Unity OpenXR Meta
@@ -4440,7 +4442,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.18.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
   assetPath: Packages/com.unity.xr.openxr
   name: com.unity.xr.openxr
   displayName: OpenXR Plugin
@@ -4633,7 +4635,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.accessibility
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -4723,7 +4725,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.adaptiveperformance
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.adaptiveperformance
   assetPath: Packages/com.unity.modules.adaptiveperformance
   name: com.unity.modules.adaptiveperformance
   displayName: Adaptive Performance
@@ -4819,7 +4821,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.ai
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -4909,7 +4911,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.androidjni
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -5003,7 +5005,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.animation
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -5093,7 +5095,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.assetbundle
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -5183,7 +5185,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.audio
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -5273,7 +5275,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.cloth
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -5367,7 +5369,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.director
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -5465,7 +5467,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.imageconversion
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -5555,7 +5557,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.imgui
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -5645,7 +5647,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.jsonserialize
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -5735,7 +5737,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.particlesystem
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -5825,7 +5827,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.physics
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -5915,7 +5917,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.physics2d
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -6009,7 +6011,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.physicscore2d
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.physicscore2d
   assetPath: Packages/com.unity.modules.physicscore2d
   name: com.unity.modules.physicscore2d
   displayName: Physics Core 2D
@@ -6099,7 +6101,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.screencapture
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -6193,7 +6195,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.terrain
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -6283,7 +6285,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.terrainphysics
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -6381,7 +6383,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.tetgen
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.tetgen
   assetPath: Packages/com.unity.modules.tetgen
   name: com.unity.modules.tetgen
   displayName: Tetgen
@@ -6471,7 +6473,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.tilemap
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -6567,7 +6569,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.timelinefoundation
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.timelinefoundation
   assetPath: Packages/com.unity.modules.timelinefoundation
   name: com.unity.modules.timelinefoundation
   displayName: Timeline Foundation
@@ -6661,7 +6663,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.ui
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -6751,7 +6753,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.uielements
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -6865,7 +6867,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.umbra
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -6955,7 +6957,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.unityanalytics
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -7053,7 +7055,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequest
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -7143,7 +7145,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -7241,7 +7243,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequestaudio
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -7339,7 +7341,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequesttexture
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -7437,7 +7439,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequestwww
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -7551,7 +7553,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.vectorgraphics
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.vectorgraphics
   assetPath: Packages/com.unity.modules.vectorgraphics
   name: com.unity.modules.vectorgraphics
   displayName: Vector Graphics
@@ -7663,7 +7665,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.vehicles
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -7757,7 +7759,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.video
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -7859,7 +7861,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.wind
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -7949,7 +7951,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.xr
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -8051,7 +8053,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.subsystems
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -8145,7 +8147,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.modules.hierarchycore
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -8235,7 +8237,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.0.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -8369,7 +8371,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.4.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.mathematics@8306a64d0cd6
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.mathematics@8306a64d0cd6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -8460,7 +8462,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.collections@10fff0607388
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.collections@10fff0607388
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -8575,7 +8577,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.editorcoroutines@8cd72baa102a
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.editorcoroutines@8cd72baa102a
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -8668,7 +8670,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.1.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -8761,7 +8763,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 2.1.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -8860,7 +8862,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.render-pipelines.core@a14850be21a6
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.render-pipelines.core@a14850be21a6
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -8976,7 +8978,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 4.9.5
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.searcher@a463122f2c00
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.searcher@a463122f2c00
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -9086,7 +9088,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee
   assetPath: Packages/com.unity.graph-authoring
   name: com.unity.graph-authoring
   displayName: Graph Authoring
@@ -9176,7 +9178,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 3.2.2
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -9287,7 +9289,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.transport@1839533e4eb3
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.transport@1839533e4eb3
   assetPath: Packages/com.unity.transport
   name: com.unity.transport
   displayName: Unity Transport
@@ -9401,7 +9403,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.4.1
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.qos@03d4b52d4980
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.qos@03d4b52d4980
   assetPath: Packages/com.unity.services.qos
   name: com.unity.services.qos
   displayName: QoS
@@ -9551,7 +9553,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.5.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.wire@1e3b97d30fb3
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.wire@1e3b97d30fb3
   assetPath: Packages/com.unity.services.wire
   name: com.unity.services.wire
   displayName: Wire
@@ -9702,7 +9704,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.7.2
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.deployment@c07c64f9804b
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.deployment@c07c64f9804b
   assetPath: Packages/com.unity.services.deployment
   name: com.unity.services.deployment
   displayName: Deployment
@@ -9823,7 +9825,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 17.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -9935,7 +9937,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.11.6
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -10038,7 +10040,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.0.3
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.profiling.core@8a49f7027d06
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.profiling.core@8a49f7027d06
   assetPath: Packages/com.unity.profiling.core
   name: com.unity.profiling.core
   displayName: Unity Profiling Core API
@@ -10137,7 +10139,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.4.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.performance.profile-analyzer@2bb26871883c
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.performance.profile-analyzer@2bb26871883c
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -10252,7 +10254,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.3.0
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.testtools.codecoverage@19a841221620
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.testtools.codecoverage@19a841221620
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -10393,7 +10395,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 6.6.0
   source: 2
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.test-framework.performance@0a60b857a52e
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.test-framework.performance@0a60b857a52e
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
@@ -10497,7 +10499,7 @@ m_ResolvedPackages:
   isInstalled: 1
   version: 1.1.3
   source: 1
-  resolvedPath: C:\Users\MULTIMEDIA\Desktop\Anatomy\Library\PackageCache\com.unity.services.deployment.api@9becf6da0f1a
+  resolvedPath: D:\GitHub\vr-multiplayer\Anatomy\Library\PackageCache\com.unity.services.deployment.api@9becf6da0f1a
   assetPath: Packages/com.unity.services.deployment.api
   name: com.unity.services.deployment.api
   displayName: Deployment API
